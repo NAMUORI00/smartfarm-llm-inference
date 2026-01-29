@@ -1,0 +1,6 @@
+models/
+llama.cpp/
+*.log
+*.pid
+.env
+.env.*
